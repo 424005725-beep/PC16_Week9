@@ -1,0 +1,13 @@
+=== Smart Coffee Maker OOP System ===
+[Breville Bambino] Brewing 2 cup(s) of Espresso... Done! Remaining water: 1 cup(s).
+[Breville Bambino] Insufficient water (1 cups left) to brew 2 cup(s) of Latte.
+[Breville Bambino] Added 4 cup(s). Current water level: 5/5.
+[Breville Bambino] Brewing 2 cup(s) of Latte... Done! Remaining water: 3 cup(s).
+[Nespresso Vertuo] Brewing 4 cup(s) of Americano... Done! Remaining water: 4 cup(s).
+[Nespresso Vertuo] Brewing 3 cup(s) of Cappuccino... Done! Remaining water: 1 cup(s).
+
+=== Fleet Summary ===
+Machine: Breville Bambino | Water: 3/5 cups | Orders completed: 2
+  Brew History: [2 cup(s) of Espresso, 2 cup(s) of Latte]
+Machine: Nespresso Vertuo | Water: 1/10 cups | Orders completed: 2
+  Brew History: [4 cup(s) of Americano, 3 cup(s) of Cappuccino]
